@@ -1,0 +1,6 @@
+
+javac -cp "./core-3.4.1.jar;./javase-3.4.1.jar;." QRCreate.java -encoding UTF-8
+java -cp "./core-3.4.1.jar;./javase-3.4.1.jar;." QRCreate
+
+javac QRCreate.java -encoding UTF-8
+java QRCreate
